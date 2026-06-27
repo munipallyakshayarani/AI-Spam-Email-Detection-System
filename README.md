@@ -77,20 +77,28 @@ AI-Spam-Email-Detection-System/
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-![alt text](home1.png)
-![alt text](home2.png)
-![alt text](home3.png)
+
+![Home Page 1](screenshots/home1.png)
+
+![Home Page 2](screenshots/home2.png)
+
+![Home Page 3](screenshots/home3.png)
+
 ---
 
 ### 🚫 Spam Detection
-![alt text](spam_email.png)
-![alt text](spam_email_result.png)
+
+![Spam Email](screenshots/spam_email.png)
+
+![Spam Result](screenshots/spam_email_result.png)
 
 ---
 
 ### ✅ Safe Detection
-![alt text](safe_email.png)
-![alt text](safe_email_result.png)
+
+![Safe Email](screenshots/safe_email.png)
+
+![Safe Result](screenshots/safe_email_result.png)
 ---
 ## ⚙️ Installation
 
