@@ -78,7 +78,7 @@ AI-Spam-Email-Detection-System/
 
 ### 🏠 Home Page
 
-![Home Page 1](screenshots/home1.png)
+![home Page 1](screenshots/home1.png)
 
 ![Home Page 2](screenshots/home2.png)
 
