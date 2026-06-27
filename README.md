@@ -80,9 +80,9 @@ AI-Spam-Email-Detection-System/
 
 ![home Page 1](screenshots/home1.png)
 
-![Home Page 2](screenshots/home2.png)
+![home Page 2](screenshots/home2.png)
 
-![Home Page 3](screenshots/home3.png)
+![home Page 3](screenshots/home3.png)
 
 ---
 
