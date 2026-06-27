@@ -77,9 +77,9 @@ AI-Spam-Email-Detection-System/
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-![alt text](home1-1.png)
+![alt text](home1.png)
 ![alt text](home2.png)
-![alt text](home3-1.png)
+![alt text](home3.png)
 ---
 
 ### 🚫 Spam Detection
@@ -89,9 +89,8 @@ AI-Spam-Email-Detection-System/
 ---
 
 ### ✅ Safe Detection
-![alt text](safe_email-1.png)
+![alt text](safe_email.png)
 ![alt text](safe_email_result.png)
-
 ---
 ## ⚙️ Installation
 
